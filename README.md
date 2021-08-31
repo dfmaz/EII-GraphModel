@@ -11,4 +11,5 @@ In this way, you will be able to determine, on the one hand, which are the compa
 
 [Networkx python package](https://networkx.org/) is the main library used in this notebook.
 Finally, the nodes of the network have been placed in a geographical map using the [Basemap package](https://matplotlib.org/basemap/), generating the following figure:
-![graph_map](/Img/graph_map.png)
+
+![graph_map](/Img/graph_map.jpg)
